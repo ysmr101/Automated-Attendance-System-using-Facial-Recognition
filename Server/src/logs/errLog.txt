@@ -1,0 +1,47 @@
+20230818	08:52:25	b54b9430-0ce0-40b5-9c43-82d2b3cc4f16	Error: Not allowed by CORS
+20230818	08:52:28	8139d078-fb36-4185-9997-31d12b1f42ae	Error: Not allowed by CORS
+20230818	09:04:03	4fa264e0-7e42-4396-818b-ee68bcf8959a	Error: Not allowed by CORS
+20230818	09:04:05	7db942cc-26f2-449e-bc59-4ec4f3e0cbcd	Error: Not allowed by CORS
+20230818	09:04:09	5f20ffca-eee5-4b3f-a396-9b66dbbe2453	Error: Not allowed by CORS
+20230818	09:06:10	c22b0f4e-be1d-4c03-9344-d19b9db0dd5a	Error: Not allowed by CORS
+20230820	07:21:46	32ead7c4-2a85-45eb-8ae1-878685115b50	Error: Not allowed by CORS
+20230820	07:22:50	e9a3fde0-d4ff-4143-9494-0653267b4289	Error: Not allowed by CORS
+20230820	07:23:05	d65c99a9-e7c1-4e62-8c11-037b69716def	Error: Not allowed by CORS
+20230820	07:24:26	1dcbb265-fada-4b4b-8258-dacb6e6480c1	Error: Not allowed by CORS
+20230820	07:30:14	fb909c0a-c9f5-4f9b-b4bf-0028751c0ae3	Error: Not allowed by CORS
+20230822	08:52:06	052dafa5-b815-4541-9107-ad87e084edbf	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	08:52:06	7aa413f1-a30b-4f82-9a1c-385e8727fc0a	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	08:52:13	91141f39-dfe2-41a9-9d2b-91bab8780ff0	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	08:52:22	c4af0940-5c9a-49f6-bb85-c71d02e43a99	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	08:52:46	347193af-ecda-466f-8b73-811e39c19d0f	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	08:52:46	877c3beb-6133-41b4-81d3-933261a7d140	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	08:53:41	74f8d600-cf6f-4acd-916a-b37edb987b4f	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	08:53:42	dd617e69-1021-4e3e-aa4c-b6f788ae16e6	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\react\build\index.html'
+20230822	14:15:25	c697e715-231f-4ca8-ad3b-d5603438bef1	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\views\404.html'
+20230822	14:15:25	73c6ae65-9488-40ae-86b9-576b42ef8441	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPReactServer\src\views\404.html'
+20230822	15:20:07	7c15daf7-ae34-486d-a3cd-599d18bb10cd	TypeError: app.use is not a function
+20230825	03:57:45	c49ae54f-c77b-4cae-8805-7ce8f2279003	SyntaxError: Unexpected token ' in JSON at position 1
+20230825	03:58:02	4e7a1d57-b790-4533-9e8d-700bfccdca42	SyntaxError: Unexpected token ' in JSON at position 1
+20230829	18:51:05	ad058cfc-8a5b-4b88-b940-9641993ce4d5	SyntaxError: Unexpected token " in JSON at position 0
+20230829	18:53:09	5b00c6d4-12d5-4401-b6ad-67cd4035c82b	SyntaxError: Unexpected token " in JSON at position 0
+20230829	18:53:27	482b360f-653e-4a1b-a708-f2c44456bc81	SyntaxError: Unexpected token " in JSON at position 0
+20230829	18:53:51	7901fe62-6ca1-4ec4-973b-bc01062c3134	SyntaxError: Unexpected token " in JSON at position 0
+20230829	18:54:18	a555fa45-c54c-4f61-982b-091e4a112995	SyntaxError: Unexpected token " in JSON at position 0
+20230829	18:54:52	e13ff93a-d938-4736-8d94-b0de002fe1bf	SyntaxError: Unexpected token " in JSON at position 0
+20230829	18:56:16	cf0c3c61-3e0f-4795-857b-e52de7d3a5b0	SyntaxError: Unexpected token " in JSON at position 0
+20230829	18:56:25	f9870e35-426f-4619-98f9-1da78672cad1	SyntaxError: Unexpected token " in JSON at position 0
+20230902	20:35:04	1573d6fd-7064-4e67-801a-e6358ea207b2	TypeError: Cannot read properties of undefined (reading 'id')
+20230902	20:44:26	9908c439-4537-4443-8476-22487db4f97f	TypeError: Cannot read properties of undefined (reading 'id')
+20230902	20:49:16	45454a3a-b6b4-4f45-948e-f898068e270e	TypeError: Cannot read properties of undefined (reading 'id')
+20230902	20:54:47	b3fef8d9-5cac-4495-b8ce-beb9650f0ed2	TypeError: Cannot read properties of undefined (reading 'id')
+20230908	20:59:02	e67c5848-eeb0-43a2-8cb4-85e6095f30e4	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPProject\GPReactServer\src\StudentsPic\profile_pic-1694040403786.JPEG'
+20230908	20:59:11	c9a8324d-6308-46cb-8ca6-abd142e6f645	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPProject\GPReactServer\src\StudentsPic\profile_pic-1694040403786.JPEG'
+20230908	21:00:47	56627711-384c-46ce-a816-e0c54c4dd029	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPProject\GPReactServer\src\StudentsPic\profile_pic-1694040403786.JPEG'
+20230908	21:01:12	c0a3afe3-4d56-43cb-b6b8-927ee13a1b11	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPProject\GPReactServer\src\StudentsPic\profile_pic-1694040403786.JPEG'
+20230908	21:13:06	73d8f1a8-07f0-4a2d-94c4-7f2fa192a922	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPProject\GPReactServer\src\StudentsPic\profile_pic-1694196535303.jpg'
+20230908	21:13:15	adf3bacc-a43c-4be0-8a70-548725df3b8f	Error: ENOENT: no such file or directory, stat 'C:\Users\kroma\OneDrive\Documents\Work\imp\GPProject\GPReactServer\src\StudentsPic\profile_pic-1694196535303.jpg'
+20230920	01:46:31	e0cb6193-7db1-48ac-841b-0db9ea13b229	TypeError: Cannot destructure property 'sid' of 'req.body.params' as it is undefined.
+20230920	01:47:10	a3a30e6e-e0a8-4ce0-b49f-7151bda1049b	TypeError: Cannot read properties of undefined (reading 'sid')
+20230920	01:50:13	0b70e315-641d-4d79-9947-5d44e1bb819d	TypeError: Cannot read properties of undefined (reading 'sid')
+20230920	01:50:45	2a8adbe6-f5db-49b0-9c64-c17ecfefbea0	TypeError: Cannot read properties of undefined (reading 'sid')
+20231008	23:51:23	c2f7794e-274f-40dd-b705-992a16aada95	Error: Not allowed by CORS

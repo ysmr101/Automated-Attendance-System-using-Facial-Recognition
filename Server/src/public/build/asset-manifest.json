@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.927a8e8b.css",
+    "main.js": "/static/js/main.77292dc7.js",
+    "static/media/faceattend-logo.png": "/static/media/faceattend-logo.3715a0dfe780545f6407.png",
+    "index.html": "/index.html",
+    "main.927a8e8b.css.map": "/static/css/main.927a8e8b.css.map",
+    "main.77292dc7.js.map": "/static/js/main.77292dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927a8e8b.css",
+    "static/js/main.77292dc7.js"
+  ]
+}
